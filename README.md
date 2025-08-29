@@ -58,3 +58,7 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+
+### NOTE:
+**_Please Note, More cahanges are yet to be made, more features are yet to be added_**
